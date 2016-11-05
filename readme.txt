@@ -5,5 +5,6 @@ Git is free software.
 
 git test 2
 
-and master a new line
+
+add a line
 
